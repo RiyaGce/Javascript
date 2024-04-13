@@ -1,0 +1,15 @@
+button{
+    background-color: black;
+    color: white;
+    padding:15px 32px;
+    font-size:32px;
+    cursor:pointer;
+    margin:20vh 90vh;
+
+}
+.nav-center
+{
+    color: brown;
+    text-align: center;
+    font-size:50px;
+}
